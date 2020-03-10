@@ -1,0 +1,16 @@
+hr{
+    margin: 2em;
+}
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+a:link, a:visited, a:link:active, a:visited:active {
+    color: black;
+    cursor: pointer;
+}

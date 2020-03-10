@@ -1,0 +1,56 @@
+.profilepic img{
+    margin: auto;
+    width: 40%;
+    height: 40%;
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+.banner-text{
+    background-color: #000000;
+    opacity: .8;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+  }
+
+  .banner-text h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff
+  }
+
+  .banner-text hr{
+    margin-top: 2em;
+    border-top: 5px dotted #ffffff;
+    width: 50%;
+    margin: auto;
+  }
+
+  .banner-text p{
+    color: #ffffff;
+    font-size: 20px;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  .icon-links{
+
+    justify-content: space-between;
+    width: 30%;
+    margin: auto;
+  }
+  
+  .icon-links i{
+    color: #ffffff;
+    font-size: 5em;
+    padding: 7px;
+    margin: .1em;
+  }
+  
+  .card-buttons{
+    margin: auto;
+    background: #000000;
+  }
