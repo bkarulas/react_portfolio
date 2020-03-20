@@ -5,7 +5,7 @@ class Footer extends Component {
     render() {
         return(
             <Row style={styles.footer}>
-                <p style={styles.text}>Brad Karulas &copy;</p>
+                <p style={styles.text}> Boris Brad Karulas &copy;</p>
             </Row>
         )
     }
