@@ -21,7 +21,7 @@ class Home extends Component {
                                 {/*github*/}
                                 <a href="https://github.com/bkarulas" target="blank" rel="noopener noreferrer"><i className="fab fa-github" /></a>
                                 {/*linked in*/}
-                                <a href="https://linkedin.com/in/brad-karulas-78992a19" target="blank" rel="noopener noreferrer"><i className="fab fa-linkedin" /></a>
+                                <a href="www.linkedin.com/in/bkarulas" target="blank" rel="noopener noreferrer"><i className="fab fa-linkedin" /></a>
                             </div>
                         </div>
                     </Row>
