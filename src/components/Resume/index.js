@@ -81,7 +81,11 @@ const styles = {
     body: {
         width:'70%', 
         margin:'auto', 
-        marginTop:'5rem'
+        marginTop:'5rem',
+        backgroundColor: '#f9f9f9',
+        padding: '7px 25px 7px',
+        border: '1px solid #adadad',
+        borderRadius: '25px'
     },
     subtitle:{
         fontSize: '18px',

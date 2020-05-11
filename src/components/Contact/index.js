@@ -29,7 +29,11 @@ const styles = {
     body: {
         width:'70%', 
         margin:'auto', 
-        marginTop:'8rem'
+        marginTop:'8rem',
+        backgroundColor: '#f9f9f9',
+        padding: '5.5rem 25px 0px',
+        border: '1px solid #adadad',
+        borderRadius: '25px'
     },
     icon:{
         fontSize: '4rem'

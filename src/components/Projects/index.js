@@ -24,12 +24,12 @@ class Projects extends Component {
             gitLink:'https://github.com/bkarulas/Note-Taker', siteLink:'https://ancient-chamber-02851.herokuapp.com'},
           { name: 'Burger Logger', img: proimg4, alt: 'Project 4',
             info:'The Burger Logger is an application designed with MySQL, Node, Express, Handlebars and a homemade ORM. Node and MySQL query and route data while Handlebars generate the HTML. In this application users can add new burgers to the menu, then move them to a devoured section once they have be eaten.',
-            gitLink:'https://github.com/bkarulas/burger', siteLink:'https://damp-shore-66568.herokuapp.com'},
+            gitLink:'https://github.com/bkarulas/burger', siteLink:'https://karulasburger.herokuapp.com'},
           { name: 'Quiz Journey', img: proimg5, alt: 'Project 5',
             info:'Quiz Journey application is designed using express, express-handlebars, mysql2, and sequelize Node.js modules. This application is to make education topics fun for learning through a game for students. Players can create multiple characters and save their game to be continued at a later time.',
             gitLink:'https://github.com/Winyumi/quiz-journey', siteLink:'https://quiz-journey.herokuapp.com'},
           { name: 'Offline/Online Budget', img: proimg6, alt: 'Project 6',
-            info:'Offline/Online Budget application is designed using service workers, express and and sequelize Node.js modules. In this application, users can add expenses and deposits to the budget with or without a connection. When they enter transactions offline, they are still able to populate the total.',
+            info:'Offline/Online Budget application is designed using service workers, express and sequelize Node.js modules. In this application, users can add expenses and deposits to the budget with or without a connection. When they enter transactions offline, they are still able to populate the total.',
             gitLink:'https://github.com/bkarulas/Online-Offline-Budget-Trackers', siteLink:'https://pwabudgettrackers.herokuapp.com'}
         ]
       }

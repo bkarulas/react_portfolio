@@ -52,8 +52,9 @@ const styles = {
         marginBottom: '1em'
     },
     body:{
-        backgroundColor: '#ffffff',
-        border: '.1rem solid #000000',
+        backgroundColor: '#f9f9f9',
+        border: '1px solid #adadad',
+        borderRadius: '25px',
         marginBottom: '3rem',
     },
     button:{
